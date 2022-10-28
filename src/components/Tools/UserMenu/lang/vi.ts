@@ -1,0 +1,68 @@
+export default {
+  // Top menu
+  // Chọn chi nhánh làm việc
+  selectBranch: 'Chọn chi nhánh làm việc',
+  branch: 'Chi nhánh',
+  unitId: 'Mã đơn vị',
+  unitName: 'Tên đơn vị',
+  checkbox: 'Bao gồm chứng từ chi nhánh phụ thuộc',
+  workingMode: 'Chế độ làm việc',
+  accountant: 'Kế toán',
+  warehouseController: 'Thủ kho',
+  cashierController: 'Thủ quỹ',
+  cancel: 'Hủy',
+  accept: 'Đồng ý',
+  //
+  search: 'Nhập từ khóa tìm kiếm',
+  //
+  downloadExcel: 'Tải tệp Excel, tệp in',
+  download: 'Tải tệp',
+  deleteHistory: 'Xóa hết lịch sử tải tệp',
+  //
+  extendedFeature: 'Tính năng mở rộng',
+  list: 'Tất cả danh mục',
+  dataMaintainance: 'Bảo trì dữ liệu',
+  reminder: 'Gợi ý, nhắc nhở thông minh',
+  openingBalance: 'Nhập số dư ban đầu',
+  massRecord: 'Ghi sổ/bỏ ghi theo lô',
+  searchCompanyInfo: 'Tra cứu thông tin doanh nghiệp',
+  numberingDocs: 'Đánh lại số chứng từ',
+  history: 'Nhật ký truy cập',
+  docsReconciliation: 'Kiểm tra đối chiếu chứng từ, sổ sách',
+  getDocs: 'Lấy chứng từ từ dữ liệu khác',
+  restoreDel: 'Phục hồi chứng từ đã xóa nhầm',
+  instruction: 'Hướng dẫn chuyển đổi từ SME',
+  listOfOnGoing: 'Danh sách lệnh tính giá, bảo trì, ... đang thực hiện',
+  //
+  setting: 'Cài đặt',
+  infoCompany: 'Thông tin công ty',
+  options: 'Tùy chọn',
+  userManagement: 'Quản lý người dùng',
+  postedDate: 'Ngày hạch toán',
+  roleAndAuthor: 'Vai trò quyền hạn',
+  dataManagement: 'Quản lý dữ liệu',
+  connectApp: 'Kết nối ứng dụng',
+  setupEmail: 'Thiết lập cấu hình gửi email',
+  //
+  help: 'Trợ giúp',
+  userManual: 'Hướng dẫn sử dụng (F1)',
+  supportChannel: 'Kênh hỗ trợ',
+  community: 'Cộng đồng hỗ trợ miễn phí AMIS kế toán',
+  zoomTraining: 'Đào tạo/giải đáp trực tuyến qua Zoom',
+  misaForum: 'Diễn đàn MISA',
+  misaHotline: 'Tổng đài MISA',
+  train: 'Đào tạo',
+  trainingVideo: ' Đào tạo AMIS kế toán qua video',
+  proCourses: ' Khóa học nâng cao nghiệp vụ Tài chính - Kế toán',
+  //
+  noti: 'Thông báo',
+  viewAll: 'Xem tất cả thông báo',
+  //
+  test: 'kiểm tra',
+  accountInfo: 'Thông tin tài khoản',
+  language: 'Ngôn ngữ',
+  logout: 'Đăng xuất',
+  tip: 'Gợi ý',
+  checkLogout: 'Bạn có thực sự muốn đăng xuất?',
+  lockScreen: 'màn hình khóa'
+}

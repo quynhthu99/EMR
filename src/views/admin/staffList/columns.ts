@@ -1,0 +1,15 @@
+export default [
+    { title: 'Mã nhân viên', dataIndex: 'id', key: 'id', fixed: true },
+    { title: 'Tên nhân viên', dataIndex: 'name', key: 'name' },
+    { title: 'Chuyên môn', dataIndex: 'speciality', key: 'speciality' },
+    { title: 'Chức vụ', dataIndex: 'position', key: 'position' },
+    { title: 'Ngày sinh', dataIndex: 'birth', key: 'birth' },
+    { title: 'Giới tính', dataIndex: 'gender', key: 'gender' },
+    { title: 'CCCD', dataIndex: 'personId', key: 'personId' },
+    { title: 'Người tạo', dataIndex: 'owner', key: 'owner' },
+    { title: 'Thời gian tạo', dataIndex: 'created', key: 'created' },
+    { title: 'Khoa', dataIndex: 'department', key: 'department' },
+    { title: 'Tên đăng nhập', dataIndex: 'userName', key: 'userName' },
+    { title: 'Có hiệu lực', dataIndex: 'tags', key: 'tags' },
+    { title: 'Tùy chọn', key: 'action' },
+];
