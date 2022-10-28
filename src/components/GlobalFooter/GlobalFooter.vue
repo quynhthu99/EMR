@@ -3,7 +3,7 @@
     <div class="copyright">
       Copyright
       <CopyrightOutlined />&nbsp;2022
-      <span>Vietants</span>
+      <span>EMR</span>
     </div>
   </div>
 </template>

@@ -16,7 +16,7 @@ export default {
     // ant design component
     Vue.component('ARow', Row)
     Vue.component('ACol', Col)
-    // VietAnts component
+    //  component
     Vue.component('va-table', Table)
     Vue.component('va-input', Input)
     Vue.component('va-select', Select)

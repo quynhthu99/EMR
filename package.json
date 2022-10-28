@@ -1,9 +1,9 @@
 {
   "name": "badt-web-admin",
   "version": "1.0.0",
-  "license": "VietAnts",
+  "license": "",
   "private": "true",
-  "homepage": "https://vietants.vn",
+  "homepage": "",
   "scripts": {
     "serve": "vite",
     "clean-dev": "vite --force",
