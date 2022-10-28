@@ -19,7 +19,7 @@
             <!-- <div class=""></div> -->
             <div class="">
                 <a-divider orientation="left">
-                    <div class="font-bold text-lg">Tìm kiếm</div>
+                    <div class="font-bold text-lg">Tìm kiếm bệnh nhân</div>
                 </a-divider>
             </div>
             <div class="grid grid-cols-2 lg:grid-cols-3 gap-4">
