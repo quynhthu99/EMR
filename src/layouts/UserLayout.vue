@@ -18,7 +18,7 @@
         <router-view />
 
         <div class="footer">
-          <div class="copyright">Copyright &copy;&nbsp;2022 VietAnts</div>
+          <div class="copyright">Copyright &copy;&nbsp;2022 EMR</div>
         </div>
       </div>
     </div>
